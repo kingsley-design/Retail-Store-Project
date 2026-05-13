@@ -428,3 +428,6 @@ SELECT
     expected_discount
 FROM ['Orders (Raw)$']
 WHERE Quantity = 0
+
+SELECT *
+FROM ['Orders (Raw)$']
